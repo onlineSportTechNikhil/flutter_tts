@@ -4,6 +4,8 @@
 
 A flutter text to speech plugin (Swift,Kotlin)
 
+## change I have made is, before any music can't be played on background, but now that is possible now.
+
 ## Features
 
 - [x] Android, iOS, Web, Windows & macOS
