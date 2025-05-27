@@ -1,5 +1,7 @@
 # Text To Speech
 
+In this repository, I changed some functionality according to me.
+
 [![pub package](https://img.shields.io/pub/v/flutter_tts.svg?style=for-the-badge&colorB=green)](https://pub.dartlang.org/packages/flutter_tts)
 
 A flutter text to speech plugin (Swift,Kotlin)
